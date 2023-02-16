@@ -1,2 +1,4 @@
 # Spark_Developer_Prep
-Public material to get ready for Spark Developer Associate Certification
+All commands covered in chapter 3 of the book Learn Spark V2, including the dataset.
+
+Enjoy!
